@@ -10,6 +10,10 @@
 
 <svelte:window bind:scrollY={rawY} />
 
+<svelte:head>
+  <title>Tom Mercer</title>
+</svelte:head>
+
 <div class="min-h-screen text-black dark:text-white">
 
     <main>
