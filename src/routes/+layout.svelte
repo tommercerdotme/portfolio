@@ -10,6 +10,10 @@
 
 <svelte:window bind:scrollY={rawY} />
 
+<svelte:head>
+  <title>Tom Mercer</title>
+</svelte:head>
+
 <div class="min-h-screen text-black dark:text-white">
     <nav class="hidden md:flex fixed left-0 right-0 z-50 justify-center transition-all duration-500 {isScrolled ? 'top-4 px-4' : 'top-0 px-0'}">
         
