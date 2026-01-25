@@ -17,11 +17,13 @@
 		"@sveltejs/vite-plugin-svelte": "^6.2.1",
 		"svelte": "^5.45.6",
 		"svelte-check": "^4.3.4",
+		"tailwind-corner-smoothing": "^1.2.0",
 		"typescript": "^5.9.3",
 		"vite": "^7.2.6"
 	},
 	"dependencies": {
 		"@tailwindcss/vite": "^4.1.18",
+		"@toolwind/corner-shape": "^0.0.8-3",
 		"tailwindcss": "^4.1.18"
 	}
 }

@@ -4,7 +4,7 @@
     import { projects } from '$lib/data/projects';
 </script>
 
-<div class="min-h-screen bg-radial-[at_90%_90%] from-sky-200 dark:from-blue-400 via-blue-400 dark:via-indigo-900 to-indigo-900 dark:to-slate-900 to-90% flex sm:items-center items-end sm:px-12 px-8 sm:pb-0 pb-36 text-white">
+<div class="h-svh  bg-radial-[at_90%_90%] from-sky-200 dark:from-blue-400 via-blue-400 dark:via-indigo-900 to-indigo-900 dark:to-slate-900 to-90% flex sm:items-center items-end sm:px-12 px-8 sm:pb-0 pb-36 text-white">
     <div>
         <h1 class="text-6xl font-[forma-djr-display] font-bold mb-4 select-none">
             Hi, I'm Tom!

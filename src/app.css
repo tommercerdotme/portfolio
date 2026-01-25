@@ -5,6 +5,11 @@ html, body {
     background-color: white;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 @media (prefers-color-scheme: dark) {
   html, body {
     background-color: rgb(2 6 23);
