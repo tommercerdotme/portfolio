@@ -35,17 +35,8 @@
                 </div>
             </div>
             <div class="max-w-lg rounded-lg justify-self-end mask-r-from-90% mask-b-from-90%">
-                <img src="src/lib/images/drive-minder-hero-dark.png" alt="Drive Minder Screenshot" class="inset-y-0 aspect-1045/924 right-0 rounded-lg "/>
+                <img src="https://f003.backblazeb2.com/file/tommercer-me-data-public/drive-minder-hero-dark.png" alt="Drive Minder Screenshot" class="inset-y-0 aspect-1045/924 right-0 rounded-lg "/>
             </div>
-        </div>
-
-        <div>
-            <h2 class="text-2xl font-[forma-djr-display] font-bold mt-12 mb-2">
-                Highlights
-            </h2>
-            <p class="text-md font-[forma-djr-text]">
-                Lorum ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            </p>
         </div>
 
         <div>
@@ -75,6 +66,14 @@
             </div>
         </div>
         
+        <div>
+            <h2 class="text-2xl font-[forma-djr-display] font-bold mt-12 mb-2">
+                Highlights
+            </h2>
+            <p class="text-md font-[forma-djr-text]">
+                Lorum ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            </p>
+        </div>
         
     </div>
     
