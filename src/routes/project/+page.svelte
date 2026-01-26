@@ -39,14 +39,6 @@
             </div>
         </div>
 
-        <div>
-            <div class="w-sm h-sm bg-gray-200 dark:bg-gray-800 rounded-lg mt-6 mb-12 p-6 flex items-start">
-                <h3 class="text-md font-[forma-djr-text] font-medium">
-                    High-performance scanning
-                </h3>
-            </div>
-        </div>
-
         <div class="grid grid-cols-2 gap-6">
             <div class="max-w-sm"> 
                 <h2 class="text-2xl font-[forma-djr-display] font-bold mt-12 mb-2">
@@ -73,6 +65,14 @@
             <p class="text-md font-[forma-djr-text]">
                 Lorum ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
             </p>
+        </div>
+
+        <div>
+            <div class="w-sm h-sm bg-gray-200 dark:bg-gray-800 rounded-lg mt-6 mb-12 p-6 flex items-start">
+                <h3 class="text-md font-[forma-djr-text] font-medium">
+                    High-performance scanning
+                </h3>
+            </div>
         </div>
         
     </div>
