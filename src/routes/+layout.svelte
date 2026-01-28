@@ -90,9 +90,5 @@
         <div>
             © {new Date().getFullYear()} Tom Mercer. All rights reserved.
         </div>
-        <div class="hidden sm:block">•</div>
-        <div>
-            Built with SvelteKit.
-        </div>
     </footer>
 </div>

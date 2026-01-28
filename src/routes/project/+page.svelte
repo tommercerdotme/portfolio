@@ -40,8 +40,8 @@
         </div>
 
         <div class="grid grid-cols-2 gap-6">
-            <div class="max-w-sm"> 
-                <h2 class="text-2xl font-[forma-djr-display] font-bold mt-12 mb-2">
+            <div class="max-w-sm mt-12 mb-2"> 
+                <h2 class="text-2xl font-[forma-djr-display] font-bold ">
                     The Problem
                 </h2>
                 <p class="text-md font-[forma-djr-text]">
