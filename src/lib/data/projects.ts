@@ -2,7 +2,7 @@ import type { ProjectData } from '$lib/types';
 
 export const projects: ProjectData[] = [
     {
-        title: 'Portfolio Site',
+        title: 'Portfolio Website',
         description_short: 'A personal portfolio website showcasing my projects and skills.',
         description_full: 'A personal portfolio website showcasing my projects and skills.',
         imageUrl: 'https://f003.backblazeb2.com/file/tommercer-me-data-public/placeholderL.jpeg',
@@ -26,7 +26,7 @@ export const projects: ProjectData[] = [
         description_short: 'A custom macOS utility to track files on external drives.',
         description_full: 'I built Drive Mind to take the guesswork out of external storage. The app scans a drive, builds a persistent index of its folder structure, and lets me browse it later in a familiar column view designed to mirror the macOS Finder. An inspector panel lets me customise the drive, search its contents, and generate descriptive notes with private, on-device AI.',
         imageUrl: 'https://f003.backblazeb2.com/file/tommercer-me-data-public/placeholderL.jpeg',
-        projectUrl: '/project',
+        projectUrl: '/drive-mind',
         tags: [
             {
                 name: 'Swift',

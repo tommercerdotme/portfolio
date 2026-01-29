@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="max-w-lg rounded-lg justify-self-end mask-r-from-90% mask-b-from-90%">
-                <img src="https://f003.backblazeb2.com/file/tommercer-me-data-public/drive-minder-hero-dark.png" alt="Drive Minder Screenshot" class="inset-y-0 aspect-1045/924 right-0 rounded-lg "/>
+                <img src="https://f003.backblazeb2.com/file/tommercer-me-data-public/drive-minder-hero-dark-large.png" alt="Drive Minder Screenshot" class="inset-y-0 aspect-1045/924 right-0 rounded-lg "/>
             </div>
         </div>
 
