@@ -9,7 +9,7 @@ export const socialMedia: SocialMediaData[] = [
     },
     {
         name: 'LinkedIn',
-        url: 'https://www.linkedin.com/in/tommercerdotme/',
+        url: 'https://www.linkedin.com/in/tommercer-me/',
         iconPathLight: 'https://f003.backblazeb2.com/file/tommercer-me-data-public/LinkedIn_White.png',
         iconPathDark: 'https://f003.backblazeb2.com/file/tommercer-me-data-public/LinkedIn_Black.png'
     }
