@@ -4,6 +4,9 @@
     import { projects } from '$lib/data/projects';
     import { scrollTo, smoothScrollTo } from '$lib/utils/ScrollUtils';
     import { socialMedia } from '$lib/data/social';
+
+    // Debug variable to toggle background colors for divs to visualize their boundaries during development. Set to false in production.
+    let showDivDebugBackgrounds = true;
 </script>
 
 <div class="h-svh bg-radial-[at_90%_90%] from-sky-200 dark:from-blue-400 via-blue-400 dark:via-indigo-900 to-indigo-900 dark:to-slate-900 to-90% flex sm:items-center items-end sm:px-12 px-8 sm:pb-0 pb-36 text-white">
@@ -31,7 +34,7 @@
 </div>
 
 <div>
-    <div id="about" class="flex flex-col sm:pl-12 pl-8 pt-24 pr-12 snap-align-start snap-always">
+    <div id="about" class="flex flex-col sm:pl-12 pl-8 pt-24 pr-12 snap-align-start snap-always {showDivDebugBackgrounds ? 'bg-red-400' : ''}">
         <h2 class="text-4xl font-[forma-djr-display] font-bold mb-4 select-none">
             About Me
         </h2>
@@ -53,7 +56,7 @@
 </div>
 
 <div>
-    <div id="projects" class="flex flex-col sm:pl-12 pl-8 pt-24 pr-12 snap-align-start snap-always">
+    <div id="projects" class="flex flex-col sm:pl-12 pl-8 pt-24 pr-12 snap-align-start snap-always {showDivDebugBackgrounds ? 'bg-green-400' : ''}">
         <h2 class="text-4xl font-[forma-djr-display] font-bold mb-4 select-none">
             Featured Projects
         </h2>
@@ -62,7 +65,7 @@
         </p>
     </div>  
 
-    <div class="overflow-x-auto pb-12 overscroll-x-contain no-scrol">
+    <div class="overflow-x-auto pb-12 overscroll-x-contain no-scrol {showDivDebugBackgrounds ? 'bg-blue-400' : ''}">
         <div class="flex gap-3 snap-x snap-mandatory pb-4 pt-6">
             <div class="shrink-0 w-3"></div>
 
