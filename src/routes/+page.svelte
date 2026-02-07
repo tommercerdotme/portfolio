@@ -6,7 +6,7 @@
     import { socialMedia } from '$lib/data/social';
 
     // Debug variable to toggle background colors for divs to visualize their boundaries during development. Set to false in production.
-    let showDivDebugBackgrounds = true;
+    let showDivDebugBackgrounds = false;
 </script>
 
 <div class="h-svh bg-radial-[at_90%_90%] from-sky-200 dark:from-blue-400 via-blue-400 dark:via-indigo-900 to-indigo-900 dark:to-slate-900 to-90% flex sm:items-center items-end sm:px-12 px-8 sm:pb-0 pb-36 text-white">
