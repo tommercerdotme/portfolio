@@ -65,8 +65,8 @@
         </p>
     </div>  
 
-    <div class="overflow-x-auto pb-12 overscroll-x-contain no-scrol {showDivDebugBackgrounds ? 'bg-blue-400' : ''}">
-        <div class="flex gap-3 snap-x snap-mandatory pb-4 pt-6">
+    <div class="overflow-x-auto overscroll-x-contain no-scrol {showDivDebugBackgrounds ? 'bg-blue-400' : ''}">
+        <div class="flex gap-3 snap-x snap-mandatory py-4">
             <div class="shrink-0 w-3"></div>
 
             {#each projects as project}

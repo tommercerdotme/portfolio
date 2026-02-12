@@ -3,7 +3,7 @@
 
     import ProjectBoxTag from './ProjectBoxTag.svelte';
 
-    let { contents }: { contents: ProjectData } = $props(); 
+    let { contents }: { contents: ProjectData } = $props();
 </script>
 
 <a href={contents.projectUrl} class="shrink-0 w-80 snap-start border border-gray-200 dark:border-gray-800 rounded-xl p-6 hover:shadow-lg hover:scale-[1.02] transition-[transform,box-shadow,background-color,scale] ease-in-out duration-[0.25s] hover:bg-white hover:dark:bg-gray-900">
